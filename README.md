@@ -11,3 +11,5 @@ cd pet-planet
 npm install
 npm run dev
 
+npm run build:
+сборка проекта dist/assets
